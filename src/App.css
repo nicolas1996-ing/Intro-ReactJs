@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.taskListComponent{
+  border: 1px solid white;
+  width: 300px;
+  text-align: justify;
+  font-size: 13px;
+  padding: 10px;
+}
+.description{
+  display: flex;
+  align-items: center;
+  line-height: 0.1px;
+}
+
+.description p{
+  color: beige;
+  padding-left: 10px;
+}
